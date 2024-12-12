@@ -1,4 +1,4 @@
-# Honeypot Deployment and SIEM Integration
+# ICS344 Project Code
 
 This repository contains resources for deploying a Cowrie honeypot, integrating it with an ELK Stack SIEM, and running custom scripts for security testing.
 
