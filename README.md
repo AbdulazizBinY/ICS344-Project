@@ -10,7 +10,6 @@ This repository contains resources for deploying a Cowrie honeypot, integrating 
 3. [Honeypot Deployment](#honeypot-deployment)
 4. [ELK Stack Installation](#elk-stack-installation)
 5. [Custom Scripts](#custom-scripts)
-8. [License](#license)
 
 ---
 
