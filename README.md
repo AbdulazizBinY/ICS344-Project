@@ -52,21 +52,21 @@ This project demonstrates how to:
 ## Custom Scripts
 
 ### 1. **SSH Bruteforce Script**
-- File: `scripts/ssh_bruteforce.py`
+- [File](scripts/ssh_bruteforce.py).
 - Purpose: Test common SSH credentials on the honeypot.
 - Usage:
   ```bash
   python3 scripts/ssh_bruteforce.py
 
 ### 2. **Telnet Testing Script**
-- File: `scripts/telnet_test.py`
+- [File](scripts/telnet_test.py).
 - Purpose: Simulate a Telnet session to test logging functionality on the honeypot.
 - Usage:
   ```bash
    python3 scripts/telnet_test.py
 
 ### 3. **Directory Traversal Testing Script**
-- File: `scripts/dir_traversal_test.sh`
+- [File](scripts/dir_traversal_test.sh).
 - Purpose: Test common SSH credentials on the honeypot.
 - Usage:
   ```bash
